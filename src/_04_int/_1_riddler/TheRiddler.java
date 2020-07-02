@@ -17,7 +17,7 @@ public class TheRiddler {
 		// 5. Otherwise, say "wrong" and tell them the answer
 
 		// 6. Add some more riddles
-
+ 
 		// 2. Make a pop up to show the score.
 		
 	}
